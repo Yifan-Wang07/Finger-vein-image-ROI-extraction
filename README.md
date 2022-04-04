@@ -13,3 +13,10 @@ opencv-python
 numpy
 
 matlibplot
+
+# Run Extraction.py
+You can use this script for ROI extraction of finger vein images from different publicly available datasets
+# Run Edge_visualization.py
+You can use this script to visualize finger edges
+# Visualization
+！[Ori](/sample/FV-USM.jpg)
