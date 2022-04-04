@@ -19,4 +19,4 @@ You can use this script for ROI extraction of finger vein images from different 
 # Run Edge_visualization.py
 You can use this script to visualize finger edges
 # Visualization
-！[Ori](/sample/FV-USM.jpg)
+！[Ori](./sample/FV-USM.jpg)
