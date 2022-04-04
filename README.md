@@ -21,4 +21,4 @@ You can use this script to visualize finger edges
 # Visualization
 ![Ori](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/sample_image/SDUMLA-FV.bmp)
 ![upper-lower](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/Visualization/1.png)
-![edge](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/sample_image/SDUMLA-FV.bmp)
+![edge](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/Visualization/2.png)
