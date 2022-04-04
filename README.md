@@ -19,4 +19,6 @@ You can use this script for ROI extraction of finger vein images from different 
 # Run Edge_visualization.py
 You can use this script to visualize finger edges
 # Visualization
-![Ori](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/sample_image/FV-USM.jpg)
+![Ori](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/sample_image/SDUMLA-FV.bmp)
+![upper-lower](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/Visualization/1.png)
+![edge](https://github.com/Yifan-Wang07/Finger-vein-image-ROI-extraction/blob/main/sample_image/SDUMLA-FV.bmp)
